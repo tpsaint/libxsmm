@@ -1,7 +1,7 @@
 #ifndef GIMMIK_H
 #define GIMMIK_H
 
-#include <libxsmm_timer.h>
+#include <libxsmm_utils.h>
 #include <libxsmm.h>
 
 #define N 40
